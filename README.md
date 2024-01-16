@@ -9,14 +9,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Gitlab-darkred?logo=gitlab">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-darkred?logo=git">
   <img alt="Static Badge" src="https://img.shields.io/badge/Axios-darkviolet?logo=axios">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Puppeteer-darkblue?logo=puppeteer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Puppeteer-darkblue?logo=puppeteer&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Jest-darkred?logo=jest">
   <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-darkblue?logo=visualstudiocode">
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-darkorange?logo=amazonaws">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Redis-darkred?logo=redis&logoColor=white">
 </p>
 <p>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTB-nvattai-darkgreen?style=flat&logo=hackthebox">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kali-darkblue?logo=kalilinux">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kali-darkblue?logo=kalilinux&logoColor=white">
 </p>
 
 

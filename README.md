@@ -15,16 +15,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-darkorange?logo=amazonaws">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redis-darkred?logo=redis&logoColor=white">
 </p>
-<p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTB-nvattai-darkgreen?style=flat&logo=hackthebox">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kali-darkblue?logo=kalilinux&logoColor=white">
-</p>
+
 
 
 ## 🚀 About Me
 I split my time between coding and cybersecurity. 
-
-
-## 📫 How to reach me:
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-nicolovattai-darkblue?logo=linkedin&link=www.linkedin.com%2Fin%2Fnicolovattai">
-
